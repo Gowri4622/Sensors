@@ -1,4 +1,4 @@
-# Sensors# Ex.No: 4 Develop a simple application to display the available sensor in android mobile devices using Sensor Manager in android studio.
+# Ex.No: 4 Develop a simple application to display the available sensor in android mobile devices using Sensor Manager in android studio.
 
 
 ## AIM:
